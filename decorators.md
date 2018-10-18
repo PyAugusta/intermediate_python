@@ -32,7 +32,7 @@ Adding cory to the database
 Enjoy!
 ```
 
-This example should demonstrate that functions are **first-class object**, which just means that they can be passed around as arguments and used in ways similar to how you might use other common types, like strings and integers.
+This example should demonstrate that functions are **first-class objects**, which just means that they can be passed around as arguments and used in ways similar to how you might use other common types, like strings and integers.
 
 So, you might be thinking of ways to use this wrapping technique already, but maybe you hate the syntax - well, you aren't alone! Thankfully, Python provides special syntax to make things a little cleaner.
 
@@ -53,7 +53,7 @@ See that fancy **@include_greeting** bit - that's the syntactic sugar we use to 
 
 ## Challenge #
 
-Often, when you're working on your coding project, you may find yourself wondering how long individual functions take to run. Write a decorator that get's the time before and after a function runs, then prints out the difference in seconds.
+Often, when you're working on your coding project, you may find yourself wondering how long individual functions take to run. Write a decorator that gets the time before and after a function runs, then prints out the difference in seconds.
 
 Some hints:
 
